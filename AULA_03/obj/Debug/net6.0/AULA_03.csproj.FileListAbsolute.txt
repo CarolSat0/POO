@@ -1,0 +1,15 @@
+C:\Users\carolina.sato\Documents\POO\AULA_03\bin\Debug\net6.0\AULA_03.exe
+C:\Users\carolina.sato\Documents\POO\AULA_03\bin\Debug\net6.0\AULA_03.deps.json
+C:\Users\carolina.sato\Documents\POO\AULA_03\bin\Debug\net6.0\AULA_03.runtimeconfig.json
+C:\Users\carolina.sato\Documents\POO\AULA_03\bin\Debug\net6.0\AULA_03.dll
+C:\Users\carolina.sato\Documents\POO\AULA_03\bin\Debug\net6.0\AULA_03.pdb
+C:\Users\carolina.sato\Documents\POO\AULA_03\obj\Debug\net6.0\AULA_03.csproj.AssemblyReference.cache
+C:\Users\carolina.sato\Documents\POO\AULA_03\obj\Debug\net6.0\AULA_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carolina.sato\Documents\POO\AULA_03\obj\Debug\net6.0\AULA_03.AssemblyInfoInputs.cache
+C:\Users\carolina.sato\Documents\POO\AULA_03\obj\Debug\net6.0\AULA_03.AssemblyInfo.cs
+C:\Users\carolina.sato\Documents\POO\AULA_03\obj\Debug\net6.0\AULA_03.csproj.CoreCompileInputs.cache
+C:\Users\carolina.sato\Documents\POO\AULA_03\obj\Debug\net6.0\AULA_03.dll
+C:\Users\carolina.sato\Documents\POO\AULA_03\obj\Debug\net6.0\refint\AULA_03.dll
+C:\Users\carolina.sato\Documents\POO\AULA_03\obj\Debug\net6.0\AULA_03.pdb
+C:\Users\carolina.sato\Documents\POO\AULA_03\obj\Debug\net6.0\AULA_03.genruntimeconfig.cache
+C:\Users\carolina.sato\Documents\POO\AULA_03\obj\Debug\net6.0\ref\AULA_03.dll
